@@ -1,0 +1,14 @@
+body{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    text-align:center;
+    border: 10px solid black;
+    height: 400px;
+    width: 500px;
+    border-radius: 20%;
+    font-size: 35px;
+    background-color: rgba(30, 4, 91, 0.726);
+    margin:100px auto;
+}
